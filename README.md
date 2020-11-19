@@ -8,11 +8,8 @@ The objective of this challenge is to build an AI model that can classify Tuberc
 
 ## How to run the code
 #### Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
-## Output
-'effb0.csv'
-```
 ## Expectations
-
+```
 
 To make sure that everything is working smoothly, here is what to expect from above (steps):
 
