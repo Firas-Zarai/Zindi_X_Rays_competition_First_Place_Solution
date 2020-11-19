@@ -7,14 +7,10 @@ The objective of this challenge is to build an AI model that can classify Tuberc
 
 
 ## How to run the code
-
-### Steps
-
-####  Make sure to follow the repo structure
-#### 1. Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
+#### Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
 ## Output
 'effb0.csv'
-
+```
 ## Expectations
 
 
@@ -24,7 +20,7 @@ Please assert that you run our code with the same GPU performance ,
 you will know our GPU performance by the cell  
  
 !nvidia-smi
-
+```
 
 ## [On the Leaderboard](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge/leaderboard)
 
