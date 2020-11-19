@@ -1,0 +1,1 @@
+# Zindi_X_Rays_competition_First_Place_Solution
