@@ -10,9 +10,6 @@ The objective of this challenge is to build an AI model that can classify Tuberc
 #### Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
 ## Expectations
 ```
-
-To make sure that everything is working smoothly, here is what to expect from above (steps):
-
 Please assert that you run our code with the same GPU performance ,
 you will know our GPU performance by the cell  
  
