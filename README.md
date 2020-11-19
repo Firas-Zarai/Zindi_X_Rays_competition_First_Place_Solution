@@ -28,7 +28,7 @@ Rank : 1/104
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
 |Ahmed Attia     |[@ahmedattia](https://zindi.africa/users/ahmedattia)  |[@ahmedattia](https://github.com/ahmedattia143)|
-|Firas Zarai |[@Firas_Zarai](https://zindi.africa/users/patata)        |[@Firas-Zarai](https://github.com/Firas-Zarai)  |
+|Firas Zarai |[@Firas_Zarai](https://zindi.africa/users/Firas_Zarai)        |[@Firas-Zarai](https://github.com/Firas-Zarai)  |
 |Azer KSOURI |[@ASSAZZIN  ](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/Az-Ks)        |
 
 </div>
