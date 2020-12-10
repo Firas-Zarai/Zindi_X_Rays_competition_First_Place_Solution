@@ -1,19 +1,18 @@
-# Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge
+## Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge
 
-## Brief Description
+### Brief Description
 
 The objective of this challenge is to build an AI model that can classify Tuberculosis and Normal X-Ray results., have a look on [Zindi](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge).   
 
 
 
 ## How to run the code
-#### Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
-## Expectations
 ```
-Please assert that you run our code with the same GPU performance ,
-you will know our GPU performance by the cell  
- 
-!nvidia-smi
+# - Run 'Zindi_X_Rays_competition_First_Place_Solution.ipynb'
+```
+## Bonus 
+```
+# - Pytorch_Denesenet201_098.ipynb 
 ```
 
 ## [On the Leaderboard](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge/leaderboard)
